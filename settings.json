@@ -157,6 +157,46 @@
                 "a"
             ]
         },
+        {
+            "before": [
+                "ы"
+            ],
+            "after": [
+                "s"
+            ]
+        },
+        {
+            "before": [
+                "в"
+            ],
+            "after": [
+                "d"
+            ]
+        },
+        {
+            "before": [
+                "а"
+            ],
+            "after": [
+                "f"
+            ]
+        },
+        {
+            "before": [
+                "п"
+            ],
+            "after": [
+                "g"
+            ]
+        },
+        {
+            "before": [
+                "р"
+            ],
+            "after": [
+                "h"
+            ]
+        },
     ],
     "vim.handleKeys": {
         "<C-d>": false,
