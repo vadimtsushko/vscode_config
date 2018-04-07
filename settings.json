@@ -309,6 +309,254 @@
                 "."
             ]
         },
+        {
+            "before": [
+                "Й"
+            ],
+            "after": [
+                "Q"
+            ]
+        },
+        {
+            "before": [
+                "Ц"
+            ],
+            "after": [
+                "W"
+            ]
+        },
+        {
+            "before": [
+                "У"
+            ],
+            "after": [
+                "E"
+            ]
+        },
+        {
+            "before": [
+                "К"
+            ],
+            "after": [
+                "R"
+            ]
+        },
+        {
+            "before": [
+                "Е"
+            ],
+            "after": [
+                "T"
+            ]
+        },
+        {
+            "before": [
+                "Н"
+            ],
+            "after": [
+                "Y"
+            ]
+        },
+        {
+            "before": [
+                "Г"
+            ],
+            "after": [
+                "U"
+            ]
+        },
+        {
+            "before": [
+                "Ш"
+            ],
+            "after": [
+                "I"
+            ]
+        },
+        {
+            "before": [
+                "Щ"
+            ],
+            "after": [
+                "O"
+            ]
+        },
+        {
+            "before": [
+                "З"
+            ],
+            "after": [
+                "P"
+            ]
+        },
+        {
+            "before": [
+                "Х"
+            ],
+            "after": [
+                "{"
+            ]
+        },
+        {
+            "before": [
+                "Ф"
+            ],
+            "after": [
+                "A"
+            ]
+        },
+        {
+            "before": [
+                "Ы"
+            ],
+            "after": [
+                "S"
+            ]
+        },
+        {
+            "before": [
+                "В"
+            ],
+            "after": [
+                "D"
+            ]
+        },
+        {
+            "before": [
+                "А"
+            ],
+            "after": [
+                "F"
+            ]
+        },
+        {
+            "before": [
+                "П"
+            ],
+            "after": [
+                "G"
+            ]
+        },
+        {
+            "before": [
+                "Р"
+            ],
+            "after": [
+                "H"
+            ]
+        },
+        {
+            "before": [
+                "О"
+            ],
+            "after": [
+                "J"
+            ]
+        },
+        {
+            "before": [
+                "Л"
+            ],
+            "after": [
+                "K"
+            ]
+        },
+        {
+            "before": [
+                "Д"
+            ],
+            "after": [
+                "L"
+            ]
+        },
+        {
+            "before": [
+                "Ж"
+            ],
+            "after": [
+                ":"
+            ]
+        },
+        {
+            "before": [
+                "Э"
+            ],
+            "after": [
+                "\""
+            ]
+        },
+        {
+            "before": [
+                "Я"
+            ],
+            "after": [
+                "Я"
+            ]
+        },
+        {
+            "before": [
+                "Ч"
+            ],
+            "after": [
+                "X"
+            ]
+        },
+        {
+            "before": [
+                "С"
+            ],
+            "after": [
+                "C"
+            ]
+        },
+        {
+            "before": [
+                "М"
+            ],
+            "after": [
+                "V"
+            ]
+        },
+        {
+            "before": [
+                "И"
+            ],
+            "after": [
+                "B"
+            ]
+        },
+        {
+            "before": [
+                "Т"
+            ],
+            "after": [
+                "N"
+            ]
+        },
+        {
+            "before": [
+                "Ь"
+            ],
+            "after": [
+                "M"
+            ]
+        },
+        {
+            "before": [
+                "Б"
+            ],
+            "after": [
+                "<"
+            ]
+        },
+        {
+            "before": [
+                "Ю"
+            ],
+            "after": [
+                ">"
+            ]
+        }
     ],
     "vim.handleKeys": {
         "<C-d>": false,
