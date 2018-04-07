@@ -109,6 +109,38 @@
                 "u"
             ]
         },
+        {
+            "before": [
+                "ш"
+            ],
+            "after": [
+                "i"
+            ]
+        },
+        {
+            "before": [
+                "щ"
+            ],
+            "after": [
+                "o"
+            ]
+        },
+        {
+            "before": [
+                "з"
+            ],
+            "after": [
+                "p"
+            ]
+        },
+        {
+            "before": [
+                "q"
+            ],
+            "after": [
+                "q"
+            ]
+        },
     ],
     "vim.handleKeys": {
         "<C-d>": false,
