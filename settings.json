@@ -93,6 +93,22 @@
                 "t"
             ]
         },
+        {
+            "before": [
+                "н"
+            ],
+            "after": [
+                "y"
+            ]
+        },
+        {
+            "before": [
+                "г"
+            ],
+            "after": [
+                "u"
+            ]
+        },
     ],
     "vim.handleKeys": {
         "<C-d>": false,
