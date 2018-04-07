@@ -213,6 +213,102 @@
                 "k"
             ]
         },
+        {
+            "before": [
+                "д"
+            ],
+            "after": [
+                "l"
+            ]
+        },
+        {
+            "before": [
+                "ж"
+            ],
+            "after": [
+                ";"
+            ]
+        },
+        {
+            "before": [
+                "э"
+            ],
+            "after": [
+                "'"
+            ]
+        },
+        {
+            "before": [
+                "я"
+            ],
+            "after": [
+                "z"
+            ]
+        },
+        {
+            "before": [
+                "ч"
+            ],
+            "after": [
+                "x"
+            ]
+        },
+        {
+            "before": [
+                "с"
+            ],
+            "after": [
+                "c"
+            ]
+        },
+        {
+            "before": [
+                "м"
+            ],
+            "after": [
+                "v"
+            ]
+        },
+        {
+            "before": [
+                "и"
+            ],
+            "after": [
+                "b"
+            ]
+        },
+        {
+            "before": [
+                "т"
+            ],
+            "after": [
+                "n"
+            ]
+        },
+        {
+            "before": [
+                "ь"
+            ],
+            "after": [
+                "m"
+            ]
+        },
+        {
+            "before": [
+                "б"
+            ],
+            "after": [
+                ","
+            ]
+        },
+        {
+            "before": [
+                "ю"
+            ],
+            "after": [
+                "."
+            ]
+        },
     ],
     "vim.handleKeys": {
         "<C-d>": false,
