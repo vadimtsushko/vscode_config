@@ -197,6 +197,22 @@
                 "h"
             ]
         },
+        {
+            "before": [
+                "о"
+            ],
+            "after": [
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "л"
+            ],
+            "after": [
+                "k"
+            ]
+        },
     ],
     "vim.handleKeys": {
         "<C-d>": false,
