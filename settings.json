@@ -1,0 +1,86 @@
+{
+    "keyboard.dispatch": "code",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "vim.easymotion": true,
+    "vim.easymotionMarkerFontSize": "15",
+    "vim.easymotionMarkerHeight": 15,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before": [
+                " "
+            ],
+            "after": [
+                "<leader>",
+                "<leader>",
+                "<leader>",
+                "b",
+                "d",
+                "w"
+            ]
+        },
+        {
+            "before": [
+                "s"
+            ],
+            "after": [
+                "<leader>",
+                "<leader>",
+                "s"
+            ]
+        },
+        {
+            "before": [
+                "u"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "undo",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": [
+                "<C-r>"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "redo",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before": [
+                "й"
+            ],
+            "after": [
+                "q"
+            ]
+        },
+    ],
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-f>": false
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "<caps>"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        }
+    ],
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "dart.showLintNames": true,
+    "dart.sdkPaths": [
+        "/usr/lib/dart",
+        "~/.dvm/1.24.3/dart-sdk"
+    ]
+}
