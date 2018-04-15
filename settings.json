@@ -578,5 +578,7 @@
     "dart.sdkPaths": [
         "/usr/lib/dart",
         "~/.dvm/1.24.3/dart-sdk"
-    ]
+    ],
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
 }
